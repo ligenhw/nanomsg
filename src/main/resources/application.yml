@@ -1,0 +1,6 @@
+
+logging:
+  file:
+    name: nanomsg.log
+  level:
+    root: INFO
